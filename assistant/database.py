@@ -16,7 +16,7 @@ from pyrogram.errors import MessageNotModified
 
 
 class DB:
-    CHANNEL_ID = -1001480669647
+    CHANNEL_ID = -1001713004129
     WARN_LIMIT_ID = 7
     WARN_MODE_ID = 8
     WARN_DATA_ID = 9
